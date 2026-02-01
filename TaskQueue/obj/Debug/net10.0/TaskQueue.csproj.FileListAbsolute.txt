@@ -1,0 +1,14 @@
+C:\Users\veran\spp\lab_1\TaskQueue\bin\Debug\net10.0\TaskQueue.exe
+C:\Users\veran\spp\lab_1\TaskQueue\bin\Debug\net10.0\TaskQueue.deps.json
+C:\Users\veran\spp\lab_1\TaskQueue\bin\Debug\net10.0\TaskQueue.runtimeconfig.json
+C:\Users\veran\spp\lab_1\TaskQueue\bin\Debug\net10.0\TaskQueue.dll
+C:\Users\veran\spp\lab_1\TaskQueue\bin\Debug\net10.0\TaskQueue.pdb
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.AssemblyInfoInputs.cache
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.AssemblyInfo.cs
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.csproj.CoreCompileInputs.cache
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.dll
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\refint\TaskQueue.dll
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.pdb
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\TaskQueue.genruntimeconfig.cache
+C:\Users\veran\spp\lab_1\TaskQueue\obj\Debug\net10.0\ref\TaskQueue.dll
